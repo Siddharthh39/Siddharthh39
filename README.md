@@ -1,4 +1,4 @@
-! [logo] (https://github.com/Siddharthh39/Siddharthh39/blob/main/python-banner.png)
+![logo](https://github.com/Siddharthh39/Siddharthh39/blob/main/python-banner.png)
 <h1 align="center">Hi 👋, I'm Siddhharth Singh</h1>
 <h3 align="center">💻 Python Programmer | I love building efficient solutions, automating tasks, and working with Python. ☁️ Cloud Computing & Cybersecurity Enthusiast | Passionate about secure systems and cloud architectures. 🔧 Operating Systems Architecture | Strong fundamentals in OS concepts, memory management, and process control. 🌐 Computer Networks | Well-trained in network protocols, topologies, and troubleshooting.</h3>
 
