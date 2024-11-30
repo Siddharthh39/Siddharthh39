@@ -1,13 +1,17 @@
 ![logo](https://github.com/Siddharthh39/Siddharthh39/blob/main/python-banner.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Siddhharth Singh</h1>
-<h3 align="left">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">
   🚀 About Me  
   💻 Python Programmer | I love building efficient solutions, automating tasks, and working with Python.  
   ☁️ Cloud Computing & Cybersecurity Enthusiast | Passionate about secure systems and cloud architectures.  
   🔧 Operating Systems Architecture | Strong fundamentals in OS concepts, memory management, and process control.  
   🌐 Computer Networks | Well-trained in network protocols, topologies, and troubleshooting.  
 </h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=siddharthh39&label=Profile%20views&color=0e75b6&style=plastic" alt="siddharthh39" />
 </p>
