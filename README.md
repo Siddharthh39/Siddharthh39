@@ -1,5 +1,6 @@
 ![logo](https://github.com/Siddharthh39/Siddharthh39/blob/main/python-banner.png)
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 # 💫 About Me:
 Hi, I’m Siddharth – a passionate coder skilled in Python, DSA, and Linux. I’ve completed the 30 Days of Code challenge, solving at least two problems daily (easy-medium). With 5⭐ on HackerRank in Python, I’m currently honing my skills on Codewars.<br><br>I have strong fundamentals in OS and Networking, and I’m exploring Cloud Technology and Cybersecurity. I love contributing to open-source and tackling real-world challenges. 🚀<br><br>Let’s build something amazing together! 💡
 
