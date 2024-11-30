@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">Hi 👋, I'm Siddhharth Singh</h1>
-<h3 align="center">
+<h3 align="left">
   🚀 About Me  
   💻 Python Programmer | I love building efficient solutions, automating tasks, and working with Python.  
   ☁️ Cloud Computing & Cybersecurity Enthusiast | Passionate about secure systems and cloud architectures.  
