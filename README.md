@@ -99,4 +99,14 @@
 
 ---
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthh39&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="siddharthh39" />
+</p>
 
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthh39&show_icons=true&theme=tokyonight&locale=en" alt="siddharthh39" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthh39&theme=dark" alt="siddharthh39" />
+</p>
