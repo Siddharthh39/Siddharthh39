@@ -1,14 +1,17 @@
 ![logo](https://github.com/Siddharthh39/Siddharthh39/blob/main/python-banner.png)
 
-
-
 <h1 align="center">Hi 👋, I'm Siddhharth Singh</h1>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <h3 align="center">
   🚀 About Me  
+  <br>
   💻 Python Programmer | I love building efficient solutions, automating tasks, and working with Python.  
+  <br>
   ☁️ Cloud Computing & Cybersecurity Enthusiast | Passionate about secure systems and cloud architectures.  
+  <br>
   🔧 Operating Systems Architecture | Strong fundamentals in OS concepts, memory management, and process control.  
+  <br>
   🌐 Computer Networks | Well-trained in network protocols, topologies, and troubleshooting.  
 </h3>
 
@@ -22,18 +25,43 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Multi Factor Authentication system](https://github.com/Siddharthh39/face-detection.git)  
-- 🌱 I’m currently learning **Django, IPFS, Cloud & Cyber-Security**  
-- 👯 I’m looking to collaborate on [Malware-Sandbox](https://github.com/Siddharthh39/malwware.git)  
-- 📫 How to reach me **thisissid397@gmail.com**  
-- ⚡ Fun fact: **I know so many Linux distros that when someone says, "What’s your favorite flavor?" I reply, "Debian... but Arch is a close second!" 🍦🐧**
+---
+
+## 🚩 Projects
+
+- [Gesture Control](https://github.com/Siddharthh39/Gesture_Control): Control devices using hand gestures via computer vision and Python.
+- [Android App Management API](https://github.com/Siddharthh39/Android-App-Management-API): RESTful API for managing and deploying Android apps.
+- [ANPR Record](https://github.com/Siddharthh39/anpr_record): Automatic Number Plate Recognition system using Python and OpenCV.
+- [Multi Factor Authentication System](https://github.com/Siddharthh39/face-detection): Enhance security with facial recognition-based MFA.
+- [Malware-Sandbox](https://github.com/Siddharthh39/malwware): (In progress) A Python sandbox for malware analysis and experimentation.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms (DSA)
+- AWS Cloud Engineering
+- Daily learning in Python, backend, databases, and technologies related to my profile
+
+---
+
+## 📫 How to reach me
+
+- **Email:** hellosiddhathh@gamil.com
+
+---
+
+## ⚡ Fun fact
+
+_When people talk about their favorite OS, I have to stop myself from giving a full Linux family tree!_
+
+---
+
+## 🤝 Connect with me
+
 <p align="left">
-  <a href="https://linkedin.com/in/siddharth-singh-4074872bb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-singh-4074872bb" height="30" width="40" />
+  <a href="https://linkedin.com/in/siddharth-singh-python-developer" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-singh-python-developer" height="30" width="40" />
   </a>
   <a href="https://instagram.com/siddharthh39" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthh39" height="30" width="40" />
@@ -41,14 +69,15 @@
   <a href="https://www.hackerrank.com/pythonicwhiz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pythonicwhiz" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/siddharth_singh39" target="blank">
+  <a href="https://leetcode.com/u/Siddharth_Singh39/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddharth_singh39" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
@@ -87,7 +116,9 @@
 
 ---
 
-<p>
+## 📊 Contributions & Status
+
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthh39&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="siddharthh39" />
 </p>
 
@@ -96,5 +127,11 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthh39&theme=dark" alt="siddharthh39" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthh39&theme=dark" alt="siddharthh39" />
 </p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=siddharthh39&theme=tokyonight" alt="siddharthh39's Contribution Graph" />
+</p>
+
+---
