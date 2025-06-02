@@ -16,10 +16,6 @@
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=siddharthh39&label=Profile%20views&color=0e75b6&style=plastic" alt="siddharthh39" />
-</p>
-
-<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=siddharthh39&theme=algolia&row=2&column=3&margin-w=15&margin-h=15" alt="profile-trophy" />
   </a>
