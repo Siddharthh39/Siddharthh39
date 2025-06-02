@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=siddharthh39" alt="siddharthh39" />
+    <img src="https://github-profile-trophy.vercel.app/?username=siddharthh39&theme=algolia&row=2&column=3&margin-w=15&margin-h=15" alt="profile-trophy" />
   </a>
 </p>
 
@@ -116,22 +116,49 @@ _When people talk about their favorite OS, I have to stop myself from giving a f
 
 ---
 
-## 📊 Contributions & Status
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthh39&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="siddharthh39" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthh39&show_icons=true&theme=tokyonight&locale=en" alt="siddharthh39" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthh39&theme=dark" alt="siddharthh39" />
-</p>
+## 🏆 My GitHub Contributions & Collaborations
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=siddharthh39&theme=tokyonight" alt="siddharthh39's Contribution Graph" />
+  <!-- Profile Trophy for all-time achievements -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Siddharthh39&theme=algolia&row=2&column=3&margin-w=15&margin-h=15" alt="profile-trophy" />
+  </a>
+</p>
+
+<!-- Readme Activity Stats: shows recent PRs, Issues, and Repo contributions -->
+<p align="center">
+  <a href="https://github.com/Readme-Workflows/Readme-Activity-Stats">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharthh39&theme=github-compact" alt="activity-graph" />
+  </a>
+</p>
+
+### 🔗 Recent Open Source Collaborations
+
+- 🏗️ **Repositories Contributed To:**  
+  - [Gesture_Control](https://github.com/Siddharthh39/Gesture_Control)
+  - [Android-App-Management-API](https://github.com/Siddharthh39/Android-App-Management-API)
+  - [anpr_record](https://github.com/Siddharthh39/anpr_record)
+  - [face-detection](https://github.com/Siddharthh39/face-detection) (Multi Factor Authentication System)
+  - [malwware](https://github.com/Siddharthh39/malwware) (Malware-Sandbox)
+- 📝 **Pull Requests Made:**  
+  - [See all my PRs](https://github.com/pulls?q=is%3Apr+author%3ASiddharthh39)
+- 🔍 **Issues Opened:**  
+  - [See all my Issues](https://github.com/issues?q=author%3ASiddharthh39+is%3Aissue)
+- 🧑‍🤝‍🧑 **Organizations:**  
+  - [Hack2Skill](https://github.com/Hack2skill) (Internship as Database Developer)
+
+---
+
+## 📊 Stats & Activity
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharthh39&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="top-langs" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddharthh39&show_icons=true&theme=tokyonight&locale=en" alt="github-stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharthh39&theme=dark" alt="streak-stats" />
 </p>
 
 ---
